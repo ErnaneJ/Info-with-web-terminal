@@ -60,7 +60,7 @@ Exemplo de comandos disponíveis:
 - `PROFILE`: mostra uma prévia do perfil no GitHub.
 - `CONTACT`: Mostra contatos como e-mail e número de telefone celular
 
-<p> <a target="_blank" href="https://ernanej.github.io/Notes-APP/"> Clique aqui </a> para acessar o sistema. </p>
+<p> <a target="_blank" href="https://ernanej.github.io/Info-with-web-terminal/"> Clique aqui </a> para acessar o sistema. </p>
 
 <hr>
 </details>
@@ -73,7 +73,7 @@ Example of available commands:
 - `PROFILE`: Shows a preview of the profile on GitHub.
 - `CONTACT`: Shows contacts like email and cell phone number
 
-<p> <a target="_blank" href="https://ernanej.github.io/Notes-APP/">Click here</a> to access the system.</p>
+<p> <a target="_blank" href="https://ernanej.github.io/Info-with-web-terminal/">Click here</a> to access the system.</p>
 
 ---
 
